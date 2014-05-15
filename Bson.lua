@@ -58,7 +58,7 @@ typedef enum
    BSON_TYPE_INT64 = 0x12,
    BSON_TYPE_MAXKEY = 0x7F,
    BSON_TYPE_MINKEY = 0xFF,
-} bson_type_t;
+} bson_type_t; 
 ]]--
 
 
